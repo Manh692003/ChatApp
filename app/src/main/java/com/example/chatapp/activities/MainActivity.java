@@ -36,6 +36,10 @@ import java.util.List;
 
 public class MainActivity extends BaseActivity implements ConversionListener {
 
+    // Test
+    // Test lần 2
+    // Test làn 3
+
     private ActivityMainBinding binding;    // Chứa các  tham chiếu đến thành phần giao diện
     private PreferenceManager preferenceManager;    // Quản lý thông tin của người dùng
     private List<ChatMessage> conversations;    // Danh sách đại diện cho các cuộc trò chuyện gần đây
