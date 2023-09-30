@@ -37,6 +37,7 @@ import java.util.List;
 public class MainActivity extends BaseActivity implements ConversionListener {
 
     // Test
+    // Test lần 2
 
     private ActivityMainBinding binding;    // Chứa các  tham chiếu đến thành phần giao diện
     private PreferenceManager preferenceManager;    // Quản lý thông tin của người dùng
